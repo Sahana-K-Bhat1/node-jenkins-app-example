@@ -1,6 +1,6 @@
 FROM mhart/alpine-node
 
-EXPOSE 6000
+EXPOSE 3001
 
 WORKDIR /app
 
